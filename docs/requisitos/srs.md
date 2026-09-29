@@ -268,6 +268,13 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
+| Paciente | Persona destinataria de la atención que recibe planes de alimentación y seguimiento, conservando la potestad sobre los accesos a sus propios datos de salud. | Acta de acuerdos técnicos y operativos, § 2.2.3 y Documento de Visión y Alcance |
+| Cuidador | Persona usuaria registrada responsable de prestar asistencia, seguimiento y supervisión directa a uno o varios pacientes asignados mientras exista una asociación vigente. | Acta de acuerdos técnicos y operativos, § 2.2.3 y § 2.2.4 |
+| Nutricionista | Rol profesional responsable de revisar, validar y aprobar las recetas antes de su publicación en la comunidad y de orientar las pautas nutricionales. | Acta de acuerdos técnicos y operativos, § 2.3.2 y § 2.4.1 |
+| Coordinador | Rol con facultades de gestión organizativa responsable de aprobar las cuentas de cuidadores y nutricionistas, y de gestionar las revisiones de reportes de contenido. | Acta de acuerdos técnicos y operativos, § 2.3.2 y § 2.4.1 |
+| Asociación vigente | Vínculo formal y activo registrado en el sistema entre un cuidador y un paciente, que habilita al cuidador para acceder a la información de salud del paciente. | Acta de acuerdos técnicos y operativos, § 2.2.3 y § 2.2.4 |
+| Información de salud | Categoría especial de datos personales relativos al estado médico, nutricional o físico de un paciente, sometida a protección legal reforzada y acceso restringido. | Documento de Visión y Alcance, § 2.5 y Acta de acuerdos técnicos y operativos, § 2.2.1 |
+| Receta | Ficha de preparación culinaria estructurada cuya publicación en la plataforma requiere la revisión y aprobación formal previa de un nutricionista. | Acta de acuerdos técnicos y operativos, § 2.4.1 |
 
 ## 10. Modelos de análisis
 
